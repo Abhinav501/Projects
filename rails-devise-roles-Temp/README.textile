@@ -1,0 +1,19 @@
+This is a starter app for a web applications.
+
+
+* Home page
+* Navigation bar
+* Sign up (create account)
+* Login
+* "Forgot password?" feature
+* "Remember me" (stay logged in) feature
+* Edit account (edit user profile)
+* List of users
+
+Th
+h4. Database
+
+The application requires a database. The example application uses SQLite with Rails ActiveRecord. You can easily substitute PostgreSQL, MySQL, or other databases.
+
+
+
